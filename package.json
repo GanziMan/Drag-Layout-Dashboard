@@ -15,7 +15,7 @@
     "recharts": "^2.7.3",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://react-dashboard.github.io",
+  "homepage": "https://GanziMan.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
